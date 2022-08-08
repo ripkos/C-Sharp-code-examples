@@ -1,0 +1,16 @@
+D:\Study\SEM6\MAS\mp2\mp2\bin\Debug\net5.0\mp2.exe
+D:\Study\SEM6\MAS\mp2\mp2\bin\Debug\net5.0\mp2.deps.json
+D:\Study\SEM6\MAS\mp2\mp2\bin\Debug\net5.0\mp2.runtimeconfig.json
+D:\Study\SEM6\MAS\mp2\mp2\bin\Debug\net5.0\mp2.runtimeconfig.dev.json
+D:\Study\SEM6\MAS\mp2\mp2\bin\Debug\net5.0\mp2.dll
+D:\Study\SEM6\MAS\mp2\mp2\bin\Debug\net5.0\ref\mp2.dll
+D:\Study\SEM6\MAS\mp2\mp2\bin\Debug\net5.0\mp2.pdb
+D:\Study\SEM6\MAS\mp2\mp2\obj\Debug\net5.0\mp2.csproj.AssemblyReference.cache
+D:\Study\SEM6\MAS\mp2\mp2\obj\Debug\net5.0\mp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\SEM6\MAS\mp2\mp2\obj\Debug\net5.0\mp2.AssemblyInfoInputs.cache
+D:\Study\SEM6\MAS\mp2\mp2\obj\Debug\net5.0\mp2.AssemblyInfo.cs
+D:\Study\SEM6\MAS\mp2\mp2\obj\Debug\net5.0\mp2.csproj.CoreCompileInputs.cache
+D:\Study\SEM6\MAS\mp2\mp2\obj\Debug\net5.0\mp2.dll
+D:\Study\SEM6\MAS\mp2\mp2\obj\Debug\net5.0\ref\mp2.dll
+D:\Study\SEM6\MAS\mp2\mp2\obj\Debug\net5.0\mp2.pdb
+D:\Study\SEM6\MAS\mp2\mp2\obj\Debug\net5.0\mp2.genruntimeconfig.cache
